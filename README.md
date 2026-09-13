@@ -44,7 +44,7 @@ The design was simulated using ModelSim Intel FPGA Starter Edition.
 
 ## Waveform
 
-![Simulation Waveform](docs/outputwaveforms.png)
+![Simulation Waveform](docs/output waveforms.png)
 
 ## Architecture
 
